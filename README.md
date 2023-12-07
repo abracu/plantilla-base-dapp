@@ -11,7 +11,7 @@ E
 E
 E
 E
-Eeee
+Eee
 ## Getting Started
 
 First, run the development server:
