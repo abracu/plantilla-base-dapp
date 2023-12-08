@@ -9,7 +9,6 @@ D
 D
 D
 D
-D
 
 First, run the development server:
 
